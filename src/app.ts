@@ -1,7 +1,7 @@
 import express, { Application, Request, Response, NextFunction } from 'express'
 import * as path from 'path'
 const app: Application = express()
-const port = 5000
+const port = 80
 
 app.use('/', (req: Request, res: Response, next: NextFunction) => {
   console.log('====================')
