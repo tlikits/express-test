@@ -1,0 +1,33 @@
+{
+    "search.exclude": {
+        "**/node_modules/": true,
+        "**/build/": true,
+        "**/dist/": true,
+        "**/.idea": true,
+        "**/node_links/": true
+    },
+    "files.exclude": {
+        //"**/node_modules/": true,
+        "**/build/": true,
+        //"**/dist/": true,
+        "**/.idea": true,
+        "**/node_links/": true
+    },
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#000d33",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#001a66",
+        "activityBar.activeBackground": "#001a66",
+        "activityBar.activeBorder": "#bf0031",
+        "activityBar.background": "#001a66",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#bf0031",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#000d33",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#000d3399",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#000d33"
+}
